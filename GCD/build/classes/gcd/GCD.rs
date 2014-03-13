@@ -1,0 +1,2 @@
+gcd.GCD
+gcd.Evaluate
